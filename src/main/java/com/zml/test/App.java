@@ -13,13 +13,6 @@ import javax.mail.internet.AddressException;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
-
-
-/**
- *
- *
- */
-
 	class MyAuth extends Authenticator{
 	   
 	   String userName = null;
